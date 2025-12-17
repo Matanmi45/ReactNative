@@ -1,0 +1,277 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Bluetooth Headphones",
+    "description": "Over-ear headphones with noise cancellation.",
+    "category": "Electronics",
+    "poster": "https://images.unsplash.com/photo-1496957961599-e35b69ef5d7c?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 50,
+      "sale": 40
+    }
+  },
+  {
+    "id": 2,
+    "title": "Smartphone",
+    "description": "Latest model with high-resolution camera.",
+    "category": "Electronics",
+    "poster": "https://images.unsplash.com/photo-1600087626120-062700394a01?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 700,
+      "sale": 650
+    }
+  },
+  {
+    "id": 3,
+    "title": "Smartwatch",
+    "description": "Water-resistant smartwatch with fitness tracking.",
+    "category": "Electronics",
+    "poster": "https://images.unsplash.com/photo-1461141346587-763ab02bced9?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 200,
+      "sale": 180
+    }
+  },
+  {
+    "id": 4,
+    "title": "Laptop",
+    "description": "Lightweight laptop with 16GB RAM.",
+    "category": "Electronics",
+    "poster": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?q=80&w=2132&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 1200,
+      "sale": 1100
+    }
+  },
+  {
+    "id": 5,
+    "title": "4K Television",
+    "description": "55-inch 4K UHD Smart TV.",
+    "category": "Electronics",
+    "poster": "https://images.unsplash.com/photo-1717295248230-93ea71f48f92?q=80&w=2128&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 900,
+      "sale": 850
+    }
+  },
+  {
+    "id": 6,
+    "title": "Men's T-Shirt",
+    "description": "Cotton T-shirt with round neck.",
+    "category": "Fashion",
+    "poster": "https://plus.unsplash.com/premium_photo-1718913931807-4da5b5dd27fa?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 20,
+      "sale": 15
+    }
+  },
+  {
+    "id": 7,
+    "title": "Women's Dress",
+    "description": "Floral print knee-length dress.",
+    "category": "Fashion",
+    "poster": "https://images.unsplash.com/photo-1523381294911-8d3cead13475?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 40,
+      "sale": 35
+    }
+  },
+  {
+    "id": 8,
+    "title": "Jeans",
+    "description": "Skinny fit denim jeans.",
+    "category": "Fashion",
+    "poster": "https://images.unsplash.com/photo-1611007724518-5baaa6e24ce5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 60,
+      "sale": 50
+    }
+  },
+  {
+    "id": 9,
+    "title": "Running Shoes",
+    "description": "Comfortable running shoes for men.",
+    "category": "Fashion",
+    "poster": "https://images.unsplash.com/photo-1511556532299-8f662fc26c06?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 80,
+      "sale": 70
+    }
+  },
+  {
+    "id": 10,
+    "title": "Leather Jacket",
+    "description": "Genuine leather jacket for winter.",
+    "category": "Fashion",
+    "poster": "https://images.unsplash.com/photo-1542404913-cb3c706f948a?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 150,
+      "sale": 130
+    }
+  },
+  {
+    "id": 11,
+    "title": "Fiction Book",
+    "description": "Bestselling mystery novel.",
+    "category": "Books",
+    "poster": "https://images.unsplash.com/photo-1512820790803-83ca734da794?q=80&w=2098&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 15,
+      "sale": 12
+    }
+  },
+  {
+    "id": 12,
+    "title": "Cookbook",
+    "description": "Healthy recipes for everyday meals.",
+    "category": "Books",
+    "poster": "https://images.unsplash.com/photo-1546552580-9427ccb15af4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 25,
+      "sale": 20
+    }
+  },
+  {
+    "id": 13,
+    "title": "Science Fiction Novel",
+    "description": "A thrilling space adventure.",
+    "category": "Books",
+    "poster": "https://images.unsplash.com/photo-1663868290007-e8df80a5b909?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 18,
+      "sale": 15
+    }
+  },
+  {
+    "id": 14,
+    "title": "Biography",
+    "description": "Inspirational story of a famous figure.",
+    "category": "Books",
+    "poster": "https://images.unsplash.com/photo-1663868289880-2cda6279543f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 22,
+      "sale": 18
+    }
+  },
+  {
+    "id": 15,
+    "title": "Children's Storybook",
+    "description": "Illustrated stories for kids.",
+    "category": "Books",
+    "poster": "https://images.unsplash.com/photo-1518306965192-44da60abb26f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 12,
+      "sale": 10
+    }
+  },
+  {
+    "id": 16,
+    "title": "Gaming Console",
+    "description": "Next-gen console with 1TB storage.",
+    "category": "Gaming",
+    "poster": "https://images.unsplash.com/photo-1513599898445-1c34777500ab?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 500,
+      "sale": 450
+    }
+  },
+  {
+    "id": 17,
+    "title": "Gaming Headset",
+    "description": "Noise-canceling headset with mic.",
+    "category": "Gaming",
+    "poster": "https://images.unsplash.com/photo-1677086813101-496781a0f327?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 80,
+      "sale": 70
+    }
+  },
+  {
+    "id": 18,
+    "title": "Gaming Chair",
+    "description": "Ergonomic chair for long gaming sessions.",
+    "category": "Gaming",
+    "poster": "https://images.unsplash.com/photo-1636487658581-a7d60d465e35?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 150,
+      "sale": 130
+    }
+  },
+  {
+    "id": 19,
+    "title": "Gaming Keyboard",
+    "description": "Mechanical keyboard with RGB lighting.",
+    "category": "Gaming",
+    "poster": "https://images.unsplash.com/photo-1636487658620-e1049fa06242?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 100,
+      "sale": 90
+    }
+  },
+  {
+    "id": 20,
+    "title": "Gaming Mouse",
+    "description": "High-precision gaming mouse.",
+    "category": "Gaming",
+    "poster": "https://images.unsplash.com/photo-1619334084350-b093f0a9b40e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 50,
+      "sale": 45
+    }
+  },
+  {
+    "id": 21,
+    "title": "Blender",
+    "description": "High-speed blender for smoothies.",
+    "category": "Home Appliances",
+    "poster": "https://images.unsplash.com/photo-1564940735784-b15466e8dc09?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 100,
+      "sale": 85
+    }
+  },
+  {
+    "id": 22,
+    "title": "Vacuum Cleaner",
+    "description": "Bagless vacuum cleaner with powerful suction.",
+    "category": "Home Appliances",
+    "poster": "https://images.unsplash.com/photo-1558317374-067fb5f30001?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 200,
+      "sale": 180
+    }
+  },
+  {
+    "id": 23,
+    "title": "Air Fryer",
+    "description": "Compact air fryer for healthy cooking.",
+    "category": "Home Appliances",
+    "poster": "https://images.unsplash.com/photo-1655354439777-894ef6491061?q=80&w=2065&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 150,
+      "sale": 130
+    }
+  },
+  {
+    "id": 24,
+    "title": "Microwave Oven",
+    "description": "Countertop microwave with multiple presets.",
+    "category": "Home Appliances",
+    "poster": "https://images.unsplash.com/photo-1626143508000-4b5904e5e84a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 300,
+      "sale": 270
+    }
+  },
+  {
+    "id": 25,
+    "title": "Electric Kettle",
+    "description": "1.7L kettle with auto shut-off.",
+    "category": "Home Appliances",
+    "poster": "https://images.unsplash.com/photo-1633450083431-a111627f6df2?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 50,
+      "sale": 45
+    }
+  }
+]

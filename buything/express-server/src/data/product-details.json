@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Bluetooth Headphones",
+    "description": "These over-ear headphones feature advanced noise-canceling technology, long battery life, and superior sound quality. Designed for comfort during extended listening sessions.",
+    "category": "Electronics",
+    "poster": "https://images.unsplash.com/photo-1496957961599-e35b69ef5d7c?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 50,
+      "sale": 40
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1496957961599-e35b69ef5d7c?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1532788592275-3f310c81dd95?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "bulletPoints": [
+      "Noise-canceling technology",
+      "Comfortable over-ear design",
+      "Up to 20 hours of battery life",
+      "Wireless and wired options",
+      "Built-in microphone for calls"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Smartphone",
+    "description": "This sleek smartphone combines cutting-edge performance with a stunning display and a high-resolution camera. Perfect for capturing life's moments and staying connected.",
+    "category": "Electronics",
+    "poster": "https://images.unsplash.com/photo-1600087626120-062700394a01?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 700,
+      "sale": 650
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1603184017968-953f59cd2e37?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1531312267124-cd1f431feb1e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "bulletPoints": [
+      "6.5-inch OLED display",
+      "64MP triple-camera system",
+      "5G connectivity",
+      "Fast-charging capability",
+      "Expandable storage options"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Smartwatch",
+    "description": "Track your fitness goals and stay connected with this water-resistant smartwatch. It features a sleek design, customizable watch faces, and multiple health monitoring options.",
+    "category": "Electronics",
+    "poster": "https://images.unsplash.com/photo-1461141346587-763ab02bced9?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 200,
+      "sale": 180
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1546868871-7041f2a55e12?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1549482199-bc1ca6f58502?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "bulletPoints": [
+      "Heart rate and sleep monitoring",
+      "Water-resistant up to 50 meters",
+      "Customizable watch faces",
+      "Compatible with iOS and Android",
+      "Fitness tracking with GPS"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Laptop",
+    "description": "A powerful and lightweight laptop, ideal for both work and entertainment. It features a vivid display, fast processing speeds, and ample storage.",
+    "category": "Electronics",
+    "poster": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?q=80&w=2132&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 1200,
+      "sale": 1100
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1481487196290-c152efe083f5?q=80&w=1924&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "bulletPoints": [
+      "16GB RAM for multitasking",
+      "512GB SSD for fast storage",
+      "Ultra-lightweight design",
+      "Full HD display",
+      "Long battery life"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "4K Television",
+    "description": "Experience stunning picture quality with this 55-inch 4K UHD Smart TV. Enjoy your favorite content with vibrant colors and enhanced sound.",
+    "category": "Electronics",
+    "poster": "https://images.unsplash.com/photo-1717295248230-93ea71f48f92?q=80&w=2128&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 900,
+      "sale": 850
+    },
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1681236323432-3df82be0c1b0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1593305841991-05c297ba4575?q=80&w=1957&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "bulletPoints": [
+      "55-inch 4K UHD display",
+      "Smart features with popular streaming apps",
+      "Dolby Atmos sound",
+      "Multiple HDMI and USB ports",
+      "Voice control compatibility"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Men's T-Shirt",
+    "description": "A classic cotton T-shirt with a comfortable fit, perfect for casual wear. Designed to keep you cool and stylish.",
+    "category": "Fashion",
+    "poster": "https://plus.unsplash.com/premium_photo-1718913931807-4da5b5dd27fa?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 20,
+      "sale": 15
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1620799139507-2a76f79a2f4d?q=80&w=1972&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "bulletPoints": [
+      "100% cotton fabric",
+      "Available in multiple sizes",
+      "Breathable material for comfort",
+      "Machine washable",
+      "Perfect for casual occasions"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Women's Dress",
+    "description": "This floral print dress is perfect for any occasion. Its lightweight fabric and flattering design make it a wardrobe essential.",
+    "category": "Fashion",
+    "poster": "https://images.unsplash.com/photo-1523381294911-8d3cead13475?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 40,
+      "sale": 35
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1524282850895-b7921c3b241d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1603252109360-909baaf261c7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "bulletPoints": [
+      "Knee-length floral print",
+      "Lightweight and breathable",
+      "Available in various colors",
+      "Easy to care for",
+      "Perfect for casual or semi-formal events"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Jeans",
+    "description": "These skinny-fit denim jeans combine style and comfort, making them perfect for everyday wear. Durable fabric ensures long-lasting use.",
+    "category": "Fashion",
+    "poster": "https://images.unsplash.com/photo-1611007724518-5baaa6e24ce5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 60,
+      "sale": 50
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1594750823491-e493d067ce3e?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1594750863984-8be99377ce41?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "bulletPoints": [
+      "Skinny fit for a modern look",
+      "Stretchable fabric for comfort",
+      "Available in various washes",
+      "Durable and long-lasting",
+      "Perfect for casual or smart-casual wear"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Running Shoes",
+    "description": "Lightweight and durable running shoes designed to offer comfort and performance during workouts or casual outings.",
+    "category": "Fashion",
+    "poster": "https://images.unsplash.com/photo-1511556532299-8f662fc26c06?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 80,
+      "sale": 70
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1548801133-da353ebb1d97?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "bulletPoints": [
+      "Breathable mesh upper",
+      "Anti-slip rubber sole",
+      "Perfect for long runs",
+      "Available in multiple colors",
+      "Shock-absorbing insoles"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Leather Jacket",
+    "description": "A premium leather jacket that combines style with functionality. Perfect for colder seasons, offering warmth and a timeless design.",
+    "category": "Fashion",
+    "poster": "https://images.unsplash.com/photo-1542404913-cb3c706f948a?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 150,
+      "sale": 130
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1620403724318-2d40745e0f1b?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1508900171380-4233b0fdacc7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "bulletPoints": [
+      "Genuine leather material",
+      "Zipper closure and multiple pockets",
+      "Stylish and durable",
+      "Perfect for casual or formal wear",
+      "Available in black and brown colors"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Fiction Book",
+    "description": "An engaging fiction novel that weaves a tale of love, betrayal, and redemption. Perfect for readers who enjoy character-driven narratives and plot twists.",
+    "category": "Books",
+    "poster": "https://images.unsplash.com/photo-1512820790803-83ca734da794?q=80&w=2098&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 25,
+      "sale": 20
+    },
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1664006989139-1bb88d04f138?q=80&w=1973&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1664006989152-e70f1d14a9b3?q=80&w=1973&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "bulletPoints": [
+      "Captivating story with dynamic characters",
+      "300+ pages of immersive reading",
+      "Ideal for book club discussions",
+      "Acclaimed by critics for its storytelling",
+      "Available in paperback and hardcover"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Cookbook",
+    "description": "A comprehensive cookbook with over 100 delicious recipes, from quick weeknight meals to gourmet dishes. Includes step-by-step instructions and vibrant photos.",
+    "category": "Books",
+    "poster": "https://images.unsplash.com/photo-1546552580-9427ccb15af4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 30,
+      "sale": 25
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1485359466996-ba9d9b4958b9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "bulletPoints": [
+      "100+ recipes for all skill levels",
+      "Step-by-step instructions with photos",
+      "Covers appetizers, mains, and desserts",
+      "Includes tips for healthy cooking",
+      "Perfect for home chefs and food enthusiasts"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Science Fiction Novel",
+    "description": "An epic science fiction adventure set in a distant galaxy. This novel explores themes of survival, technology, and the power of human spirit in a gripping narrative.",
+    "category": "Books",
+    "poster": "https://images.unsplash.com/photo-1663868290007-e8df80a5b909?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 35,
+      "sale": 30
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1491309055486-24ae511c15c7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1443188631128-a1b6b1c5c207?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "bulletPoints": [
+      "Set in a vividly imagined galaxy",
+      "Themes of survival and innovation",
+      "Fast-paced and action-packed",
+      "Critically acclaimed for its originality",
+      "Perfect for sci-fi fans and casual readers"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Biography",
+    "description": "A deeply moving biography of a historical figure whose life story inspires courage and perseverance. A must-read for history enthusiasts and motivational seekers.",
+    "category": "Books",
+    "poster": "https://images.unsplash.com/photo-1663868289880-2cda6279543f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 40,
+      "sale": 35
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1534612368275-e4cfd0f21b2d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1543165796-5426273eaab3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "bulletPoints": [
+      "Insightful and inspirational life story",
+      "Rich historical context",
+      "Beautifully written and well-researched",
+      "Includes rare photos and anecdotes",
+      "Perfect for readers of history and memoirs"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Children's Storybook",
+    "description": "A delightful storybook filled with enchanting tales and colorful illustrations. Ideal for bedtime stories and sparking the imagination of young readers.",
+    "category": "Books",
+    "poster": "https://images.unsplash.com/photo-1518306965192-44da60abb26f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 20,
+      "sale": 15
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1565022536102-f7645c84354a?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1588912914017-923900a34710?q=80&w=2119&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "bulletPoints": [
+      "Includes multiple enchanting tales",
+      "Vivid and colorful illustrations",
+      "Perfect for bedtime storytelling",
+      "Designed for ages 3-8",
+      "Encourages creativity and imagination"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Gaming Console",
+    "description": "Experience next-level gaming with this advanced gaming console featuring stunning 4K graphics, lightning-fast load times, and a vast library of games.",
+    "category": "Gaming",
+    "poster": "https://images.unsplash.com/photo-1513599898445-1c34777500ab?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 500,
+      "sale": 450
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1565869812436-a480bda13b6b?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1606318801954-d46d46d3360a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "bulletPoints": [
+      "Supports 4K Ultra HD gaming",
+      "Powerful hardware for smooth performance",
+      "Compatible with a wide range of games",
+      "Online multiplayer functionality",
+      "Includes ergonomic controller"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Gaming Headset",
+    "description": "Immerse yourself in the game with this high-quality gaming headset. Featuring surround sound and a noise-canceling microphone for crystal-clear communication.",
+    "category": "Gaming",
+    "poster": "https://images.unsplash.com/photo-1677086813101-496781a0f327?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 80,
+      "sale": 70
+    },
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1680124607783-b99d86ed3015?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1680124605946-ca21f88ea11c?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "bulletPoints": [
+      "7.1 surround sound for immersive audio",
+      "Noise-canceling microphone",
+      "Comfortable over-ear design",
+      "Compatible with PC, consoles, and mobile",
+      "Durable and lightweight"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Gaming Chair",
+    "description": "Stay comfortable during long gaming sessions with this ergonomic gaming chair. It features adjustable armrests, lumbar support, and a reclining backrest.",
+    "category": "Gaming",
+    "poster": "https://images.unsplash.com/photo-1636487658581-a7d60d465e35?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 150,
+      "sale": 130
+    },
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1678112180514-478cd1218101?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1679972544219-e50efcabe3df?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "bulletPoints": [
+      "Ergonomic design for long sessions",
+      "Adjustable lumbar and neck support",
+      "Reclining backrest up to 180 degrees",
+      "Durable and high-quality materials",
+      "Available in multiple color options"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Gaming Keyboard",
+    "description": "Elevate your gaming performance with this RGB-backlit mechanical gaming keyboard. Offers fast response times and customizable lighting effects.",
+    "category": "Gaming",
+    "poster": "https://images.unsplash.com/photo-1636487658620-e1049fa06242?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 100,
+      "sale": 85
+    },
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1680124608003-b14fe079b955?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1664194583917-b0ba07c4ce2a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "bulletPoints": [
+      "Mechanical switches for precision",
+      "RGB backlighting with custom effects",
+      "Durable and splash-resistant",
+      "Anti-ghosting keys for faster input",
+      "Compatible with Windows and Mac"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Gaming Mouse",
+    "description": "Achieve precision and speed with this gaming mouse featuring customizable DPI settings, ergonomic design, and programmable buttons.",
+    "category": "Gaming",
+    "poster": "https://images.unsplash.com/photo-1619334084350-b093f0a9b40e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 60,
+      "sale": 50
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1605773527852-c546a8584ea3?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "bulletPoints": [
+      "Adjustable DPI settings for accuracy",
+      "Ergonomic design for comfort",
+      "RGB lighting for a gaming aesthetic",
+      "6 programmable buttons",
+      "Durable and lightweight"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Blender",
+    "description": "A powerful blender designed to handle everything from smoothies to soups. Features a high-speed motor and multiple settings for versatile kitchen use.",
+    "category": "Home Appliances",
+    "poster": "https://images.unsplash.com/photo-1564940735784-b15466e8dc09?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 70,
+      "sale": 60
+    },
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1717749801344-8ed38d55aead?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1718043036192-b874bb43c64f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "bulletPoints": [
+      "High-speed motor for smooth blending",
+      "Multiple speed and pulse settings",
+      "Comes with a durable glass jar",
+      "Easy to clean and dishwasher safe",
+      "Ideal for smoothies, soups, and sauces"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Vacuum Cleaner",
+    "description": "A compact and efficient vacuum cleaner with powerful suction. Perfect for keeping your home spotless, it includes multiple attachments for different surfaces.",
+    "category": "Home Appliances",
+    "poster": "https://images.unsplash.com/photo-1558317374-067fb5f30001?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 120,
+      "sale": 100
+    },
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1681823989280-c51938816655?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1681823992530-330f6268646d?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "bulletPoints": [
+      "Powerful suction for deep cleaning",
+      "Lightweight and easy to maneuver",
+      "Includes attachments for carpets and hard floors",
+      "HEPA filter for allergen removal",
+      "Bagless design for easy maintenance"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Air Fryer",
+    "description": "Cook healthier meals with this air fryer that uses hot air to fry foods with little to no oil. Features multiple cooking presets for quick and easy use.",
+    "category": "Home Appliances",
+    "poster": "https://images.unsplash.com/photo-1655354439777-894ef6491061?q=80&w=2065&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 150,
+      "sale": 130
+    },
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1711725196376-9f1bb3db3093?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1711725195314-1dc6d51b49c3?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "bulletPoints": [
+      "Uses hot air for healthy cooking",
+      "Multiple presets for frying, baking, and roasting",
+      "Non-stick basket for easy cleaning",
+      "Compact design fits on any countertop",
+      "Includes recipe book for inspiration"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Microwave Oven",
+    "description": "A versatile microwave oven with pre-programmed settings for easy cooking, reheating, and defrosting. Features a spacious interior and a sleek design.",
+    "category": "Home Appliances",
+    "poster": "https://images.unsplash.com/photo-1626143508000-4b5904e5e84a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 200,
+      "sale": 180
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1608384156808-418b5c079968?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1626144147411-5e01607d3ff9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "bulletPoints": [
+      "Pre-programmed cooking settings",
+      "Spacious interior for larger dishes",
+      "Energy-efficient operation",
+      "Easy-to-use digital controls",
+      "Stylish design to complement any kitchen"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Electric Kettle",
+    "description": "A fast-boiling electric kettle with a sleek design and safety features like automatic shut-off. Perfect for tea, coffee, and instant meals.",
+    "category": "Home Appliances",
+    "poster": "https://images.unsplash.com/photo-1633450083431-a111627f6df2?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": {
+      "mrp": 40,
+      "sale": 35
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1571552879083-e93b6ea70d1d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1650940925927-f4a30c930a4d?q=80&w=2048&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "bulletPoints": [
+      "Boils water quickly and efficiently",
+      "1.7-liter capacity",
+      "Automatic shut-off for safety",
+      "Cordless design for easy pouring",
+      "Durable stainless steel construction"
+    ]
+  }
+]
