@@ -1,13 +1,13 @@
-import {FC} from 'react';
-import {StyleSheet, Text, View} from 'react-native';
+import { FC } from 'react';
+import { StyleSheet, Text } from 'react-native';
 
 interface Props {
   message?: string;
   size?: number;
 }
 
-const ErrorMessage: FC<Props> = ({message, size = 12}) => {
-  return <Text style={[styles.error, {fontSize: size}]}>{message}</Text>;
+const ErrorMessage: FC<Props> = ({ message, size = 12 }) => {
+  return <Text style={[styles.error, { fontSize: size }]}>{message}</Text>;
 };
 
 const styles = StyleSheet.create({

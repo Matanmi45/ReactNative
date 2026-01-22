@@ -21,12 +21,12 @@ export const getProduct: RequestHandler = (req, res) => {
 export const getCategories: RequestHandler = (req, res) => {
   const categoriesPath = path.join(__dirname, "../data/categories.json");
   const result = fs.readFileSync(categoriesPath, { encoding: "utf-8" });
-  let categories: string[] = [];
-  if (result) {
-    categories = JSON.parse(result);
-  }
+  //let categories: string[] = [];
+  // if (result) {
+  //   //categories = JSON.parse(result);
+  // }
 
-  res.json({ categories });
+  res.json(result ? JSON.parse(result) : []);
 };
 
 type Product = {

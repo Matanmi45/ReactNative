@@ -1,8 +1,15 @@
-import {FC, useEffect} from 'react';
-import {FlatList, Image, Pressable, StyleSheet, Text, View} from 'react-native';
-import {useCart} from '../context/CartProvider';
-import {useNavigation} from '@react-navigation/native';
-import {formatPrice} from '../utils/helper';
+import { FC, useEffect } from 'react';
+import {
+  FlatList,
+  Image,
+  Pressable,
+  StyleSheet,
+  Text,
+  View,
+} from 'react-native';
+import { useCart } from '../context/CartProvider';
+import { useNavigation } from '@react-navigation/native';
+import { formatPrice } from '../utils/helper';
 import EmptyContainer from '../components/EmptyContainer';
 
 interface Props {}
@@ -14,7 +21,7 @@ const Cart: FC<Props> = () => {
   const navigation = useNavigation();
 
   useEffect(() => {
-    let tabBarBadge: string | undefined = undefined;
+    let tabBarBadge: string | undefined;
     if (cartItemsCount)
       tabBarBadge = cartItemsCount <= 9 ? cartItemsCount.toString() : '9+';
     navigation.setOptions({
@@ -28,12 +35,12 @@ const Cart: FC<Props> = () => {
         ListEmptyComponent={<EmptyContainer text="No Items to Render..." />}
         contentContainerStyle={styles.listContainer}
         data={cartContext?.items}
-        renderItem={({item}) => {
+        renderItem={({ item }) => {
           return (
             <View style={styles.productContainer}>
               <Image
                 resizeMode="cover"
-                source={{uri: item.product.poster}}
+                source={{ uri: item.product.poster }}
                 style={styles.productImage}
               />
 
@@ -54,7 +61,8 @@ const Cart: FC<Props> = () => {
                 <View style={styles.quantityControls}>
                   <Pressable
                     onPress={() => cartContext?.updateCart(item.product, -1)}
-                    style={styles.actionButton}>
+                    style={styles.actionButton}
+                  >
                     <Text style={styles.textBase}>-</Text>
                   </Pressable>
 
@@ -63,7 +71,8 @@ const Cart: FC<Props> = () => {
                   </View>
                   <Pressable
                     onPress={() => cartContext?.updateCart(item.product, 1)}
-                    style={styles.actionButton}>
+                    style={styles.actionButton}
+                  >
                     <Text style={styles.textBase}>+</Text>
                   </Pressable>
                 </View>

@@ -1,5 +1,5 @@
-import {FC, ReactNode} from 'react';
-import {SafeAreaView, StyleSheet, Text, View} from 'react-native';
+import { FC, ReactNode } from 'react';
+import { SafeAreaView, StyleSheet, Text, View } from 'react-native';
 import PrimaryButton from '../components/PrimaryButton';
 
 interface Props {
@@ -21,7 +21,7 @@ const FormContainer: FC<Props> = ({
     <SafeAreaView style={styles.safeAreaView}>
       <View style={styles.container}>
         <View style={styles.titleContainer}>
-          <Text style={styles.title}>Welcome to RNative</Text>
+          <Text style={styles.title}>Welcome to BuYThInG</Text>
           <Text style={styles.subTitle}>Your own online store</Text>
         </View>
 

@@ -1,14 +1,1 @@
-[
-  {
-    "id": "1741790464446",
-    "name": "Niraj",
-    "email": "niraj@email.com",
-    "password": "123456"
-  },
-  {
-    "id": "1741790464447",
-    "name": "John Doe",
-    "email": "john@email.com",
-    "password": "12345678"
-  }
-]
+[{"id":"1741790464446","name":"Niraj","email":"niraj@email.com","password":"123456"},{"id":"1741790464447","name":"John Doe","email":"john@email.com","password":"12345678"},{"id":"1765956563026","name":"Markins Tobi","email":"markinstobi@gmail.com","password":"markins"},{"id":"1766752121735","name":"Hubert Ogunde","email":"hubertOgunde@gmail.com","password":"olanike"},{"id":"1766952668280","name":"Jamie Akin","email":"akin@gmail.com","password":"akins"}]

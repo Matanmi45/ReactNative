@@ -1,14 +1,15 @@
-import {FC, useState} from 'react';
+import { FC, useState } from 'react';
 import FormInput from '../components/FormInput';
 import FormContainer from '../components/FormContainer';
-import {NavigationProp, useNavigation} from '@react-navigation/native';
-import {AuthStackNavigator} from '../navigation/AuthNavigator';
-import {errorType} from './SignUp';
-import axios, {AxiosError} from 'axios';
-import client from '../api/client';
+import { NavigationProp, useNavigation } from '@react-navigation/native';
+import { AuthStackNavigator } from '../navigation/AuthNavigator';
+import { errorType } from './SignUp';
+import { AxiosError } from 'axios';
+// import client from '../api/client';
 import ErrorMessage from '../components/ErrorMessage';
-import AsyncStorage from '@react-native-async-storage/async-storage';
-import {useAuth} from '../context/AuthProvider';
+//import AsyncStorage from '@react-native-async-storage/async-storage';
+import { useAuth } from '../context/AuthProvider';
+// import { AxiosError } from 'axios';
 
 interface Props {}
 
@@ -20,13 +21,14 @@ const SignIn: FC<Props> = () => {
   const [errors, setErrors] = useState<errorType>({});
   const [error, setError] = useState('');
   const navigation = useNavigation<NavigationProp<AuthStackNavigator>>();
-  const {login} = useAuth();
+  const { login } = useAuth();
 
   const handleSubmit = async () => {
     setError('');
     setErrors({});
     try {
-      await login(signInInfo);
+       login(signInInfo);
+    // eslint-disable-next-line no-catch-shadow, @typescript-eslint/no-shadow
     } catch (error) {
       if (error instanceof AxiosError) {
         // this is the error coming from api
@@ -44,7 +46,8 @@ const SignIn: FC<Props> = () => {
       }}
       onSubmit={handleSubmit}
       btnTitle="Sign In"
-      navLinkTitle="Don't have an account?">
+      navLinkTitle="Don't have an account?"
+    >
       {error ? <ErrorMessage message={error} size={18} /> : null}
       <FormInput
         label="Email"
@@ -53,7 +56,7 @@ const SignIn: FC<Props> = () => {
         keyboardType="email-address"
         errors={errors.email}
         onChangeText={email => {
-          setSignInInfo({...signInInfo, email});
+          setSignInInfo({ ...signInInfo, email });
         }}
       />
       <FormInput
@@ -63,7 +66,7 @@ const SignIn: FC<Props> = () => {
         autoCapitalize="none"
         errors={errors.password}
         onChangeText={password => {
-          setSignInInfo({...signInInfo, password});
+          setSignInInfo({ ...signInInfo, password });
         }}
       />
     </FormContainer>

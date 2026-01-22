@@ -1,7 +1,7 @@
 //import {createStaticNavigation} from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 //import SignIn from '../views/SignIn';
-import SignUp from '../views/SignUp';
+//import SignUp from '../views/SignUp';
 import Home from '../views/Home';
 import SingleProduct from '../views/SingleProduct';
 

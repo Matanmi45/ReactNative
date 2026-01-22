@@ -1,14 +1,14 @@
-import {FC, useEffect, useState} from 'react';
-import {StyleSheet, FlatList, Pressable, Text, View} from 'react-native';
-import {StackScreenProps} from '@react-navigation/stack';
-import {AuthStackNavigator} from '../navigation/AuthNavigator';
-import {useAuth} from '../context/AuthProvider';
+import { FC, useEffect, useState } from 'react';
+import { StyleSheet, FlatList, Text, View } from 'react-native';
+// import {StackScreenProps} from '@react-navigation/stack';
+// import {AuthStackNavigator} from '../navigation/AuthNavigator';
+// import {useAuth} from '../context/AuthProvider';
 import client from '../api/client';
-import ProductCard, {offset, Product} from '../components/ProductCard';
+import ProductCard, { offset, Product } from '../components/ProductCard';
 import CategoryList from '../components/CategoryList';
 import CategoryBtn from '../components/CategoryBtn';
-import {NavigationProp, useNavigation} from '@react-navigation/native';
-import {HomeNavigatorProps} from '../navigation/HomeNavigator';
+import { NavigationProp, useNavigation } from '@react-navigation/native';
+import { HomeNavigatorProps } from '../navigation/HomeNavigator';
 
 interface Props {}
 
@@ -22,7 +22,7 @@ const Home: FC<Props> = () => {
   useEffect(() => {
     const fetchProducts = async () => {
       try {
-        const {data} = await client.get<{products: Product[]}>(
+        const { data } = await client.get<{ products: Product[] }>(
           '/product/products',
         );
         setProducts(data.products);
@@ -33,7 +33,7 @@ const Home: FC<Props> = () => {
 
     const fetchCategories = async () => {
       try {
-        const {data} = await client.get<{categories: string[]}>(
+        const { data } = await client.get<{ categories: string[] }>(
           '/product/categories',
         );
         setCategories(['All', ...data.categories]);
@@ -51,7 +51,7 @@ const Home: FC<Props> = () => {
     // fetch products by category
     try {
       if (category === 'All') category = '';
-      const {data} = await client.get<{products: Product[]}>(
+      const { data } = await client.get<{ products: Product[] }>(
         '/product/products/' + category,
       );
       setProducts(data.products);
@@ -71,7 +71,7 @@ const Home: FC<Props> = () => {
     <>
       <CategoryList
         data={categories}
-        renderItem={({item}) => {
+        renderItem={({ item }) => {
           return (
             <CategoryBtn
               active={selectedCategory === item}
@@ -85,11 +85,11 @@ const Home: FC<Props> = () => {
         data={products}
         contentContainerStyle={styles.container}
         // horizontal
-        renderItem={({item: product}) => {
+        renderItem={({ item: product }) => {
           return (
             <ProductCard
               onPress={() => {
-                navigation.navigate('SingleProduct', {id: product.id});
+                navigation.navigate('SingleProduct', { id: product.id });
               }}
               product={product}
             />

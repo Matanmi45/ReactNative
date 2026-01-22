@@ -1,14 +1,14 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import {FC, ReactNode, useContext, useEffect, useState} from 'react';
-import {createContext} from 'react';
+import { FC, ReactNode, useContext, useEffect, useState } from 'react';
+import { createContext } from 'react';
 import client from '../api/client';
-import {Text, View} from 'react-native';
+import { Text, View } from 'react-native';
 
 // Context
 
-type Profile = {id: string; name: string; email: string; image?: string};
+type Profile = { id: string; name: string; email: string; image?: string };
 
-type SignInInfo = {email: string; password: string};
+type SignInInfo = { email: string; password: string };
 
 interface DefaultAuthContext {
   isAuth: boolean;
@@ -30,7 +30,7 @@ interface Props {
   children: ReactNode;
 }
 
-const AuthProvider: FC<Props> = ({children}) => {
+const AuthProvider: FC<Props> = ({ children }) => {
   const [busy, setBusy] = useState(true);
   const [isAuth, setIsAuth] = useState(false);
   const [profile, setProfile] = useState<DefaultAuthContext['profile']>(null);
@@ -39,7 +39,7 @@ const AuthProvider: FC<Props> = ({children}) => {
     const readTokenFromAsyncStorage = async () => {
       const result = await AsyncStorage.getItem('auth_token');
       if (result) {
-        const {data} = await client.get('/auth/is-auth', {
+        const { data } = await client.get('/auth/is-auth', {
           headers: {
             Authorization: 'Bearer ' + result,
           },
@@ -64,16 +64,20 @@ const AuthProvider: FC<Props> = ({children}) => {
   };
 
   const login = async (value: SignInInfo) => {
-    const {data} = await client.post(`/auth/sign-in`, value);
+    const { data } = await client.post(`/auth/sign-in`, value);
     await AsyncStorage.setItem('auth_token', data.token);
     setIsAuth(true);
   };
 
   return (
     <AuthContext.Provider
-      value={{isAuth, profile, updateProfile, logout, login}}>
+      value={{ isAuth, profile, updateProfile, logout, login }}
+    >
       {busy ? (
-        <View style={{flex: 1, justifyContent: 'center', alignItems: 'center'}}>
+        <View
+          // eslint-disable-next-line react-native/no-inline-styles
+          style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}
+        >
           <Text>Fetching Auth Info...</Text>
         </View>
       ) : (
